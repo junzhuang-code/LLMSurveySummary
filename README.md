@@ -98,7 +98,7 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2305.14965">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh" align="center">Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment</td>
+    <td class="tg-baqh" align="center">Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models' Alignment</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">10 Aug 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.05374">Paper</a></td>
@@ -237,7 +237,7 @@ A collection of survey papers and resources related to Large Language Models (LL
   </tr>
   <tr>
     <td class="tg-nrix" align="center" rowspan="2">Reasoning</td>
-    <td class="tg-baqh" align="center">Augmented Language Models: a Survey</td>
+    <td class="tg-baqh" align="center">Augmented Language Models: A Survey</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">15 Feb 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2302.07842">Paper</a></td>
