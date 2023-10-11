@@ -159,18 +159,24 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.14149">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="2">Bioinformatics</td>
+    <td class="tg-nrix" align="center" rowspan="3">Bioinformatics</td>
     <td class="tg-baqh" align="center">The Shaky Foundations of Clinical Foundation Models: A Survey of Large Language Models and Foundation Models for EMRs</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">22 Mar 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.12961">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh" align="center">Large language models in medicine</td>
+    <td class="tg-baqh" align="center">Large Language Models in Medicine</td>
     <td class="tg-0lax" align="center">Nature Medicine</td>
     <td class="tg-baqh" align="center" align="center">17 July 2023</td>
     <td class="tg-0lax" align="center"><a href="https://www.nature.com/articles/s41591-023-02448-8">Paper</a></td>
   </tr>
+  <tr>
+    <td class="tg-baqh" align="center">A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center" align="center">9 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.05694">Paper</a></td>
+  </tr>  
   <tr>
     <td class="tg-nrix" align="center" rowspan="2">RecSys<br>IR</td>
     <td class="tg-baqh" align="center">A Survey on Large Language Models for Recommendation</td>
@@ -287,3 +293,4 @@ A collection of survey papers and resources related to Large Language Models (LL
 ## Update Log
 * 2023-10-04: Released the first draft of the survey summary for LLMs.
 * 2023-10-07: Added three survey papers about LLMs for graphs.
+* 2023-10-10: Added one survey paper about LLMs for healthcare.
