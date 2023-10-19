@@ -210,6 +210,19 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.06374">Paper</a></td>
   </tr>
   <tr>
+    <td class="tg-nrix" align="center" rowspan="2">Software Engineering</td>
+    <td class="tg-baqh" align="center">Large Language Models for Software Engineering: A Systematic Literature Review</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">21 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.10620">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Large Language Models for Software Engineering: Survey and Open Problems</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">5 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.03533">Paper</a></td>
+  </tr>
+  <tr>
     <td class="tg-nrix" align="center" rowspan="2">Robotics</td>
     <td class="tg-baqh" align="center">A Survey on Large Language Model based Autonomous Agents</td>
     <td class="tg-0lax" align="center">arXiv</td>
@@ -294,3 +307,4 @@ A collection of survey papers and resources related to Large Language Models (LL
 * 2023-10-04: Released the first draft of the survey summary for LLMs.
 * 2023-10-07: Added three survey papers about LLMs for graphs.
 * 2023-10-10: Added one survey paper about LLMs for healthcare.
+* 2023-10-19: Added two survey papers about LLMs for software engineering.
