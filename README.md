@@ -24,7 +24,7 @@ A collection of survey papers and resources related to Large Language Models (LL
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="9">Comprehensive</td>
+    <td class="tg-nrix" align="center" rowspan="10">Comprehensive</td>
     <td class="tg-baqh" align="center">A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">7 Mar 2023</td>
@@ -55,6 +55,12 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2304.01852">Paper</a></td>
   </tr>
   <tr>
+    <td class="tg-baqh" align="center">ChatGPT: A Comprehensive Review on Background, Applications, Key Challenges, Bias, Ethics, Limitations and Future Scope</td>
+    <td class="tg-0lax" align="center">ScienceDirect</td>
+    <td class="tg-baqh" align="center">14 Apr 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://www.sciencedirect.com/science/article/pii/S266734522300024X">Paper</a></td>
+  </tr>
+  <tr>
     <td class="tg-baqh" align="center">Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">26 Apr 2023</td>
@@ -79,11 +85,23 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2307.06435">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="9">Trustworthy</td>
+    <td class="tg-nrix" align="center" rowspan="13">Trustworthy</td>
     <td class="tg-baqh" align="center">Survey of Hallucination in Natural Language Generation</td>
     <td class="tg-0lax" align="center">ACM</td>
     <td class="tg-baqh" align="center">3 Mar 2023</td>
     <td class="tg-0lax" align="center"><a href="https://dl.acm.org/doi/10.1145/3571730">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Practical and Ethical Challenges of Large Language Models in Education: A Systematic Scoping Review</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">17 Mar 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.13379">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">ChatGPT Needs SPADE (Sustainability, PrivAcy, Digital divide, and Ethics) Evaluation: A Review</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">13 Apr 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2305.03123">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation</td>
@@ -132,6 +150,18 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">12 Sep 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2309.05922">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Ethical Challenges of Large Language Models-A Systematic Literature Review</td>
+    <td class="tg-0lax" align="center">helda.helsinki.fi</td>
+    <td class="tg-baqh" align="center">26 Sep 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://helda.helsinki.fi/server/api/core/bitstreams/e507d025-8c84-4789-a043-f185fa51eb0a/content">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Large Language Model Alignment: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">26 Sep 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2309.15025">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-nrix" align="center" rowspan="4">Multi-modal<br>Pre-training</td>
@@ -308,3 +338,4 @@ A collection of survey papers and resources related to Large Language Models (LL
 * 2023-10-07: Added three survey papers about LLMs for graphs.
 * 2023-10-10: Added one survey paper about LLMs for healthcare.
 * 2023-10-19: Added two survey papers about LLMs for software engineering.
+* 2023-10-29: Added one comprehensive survey and four surveys for trustworthiness.
