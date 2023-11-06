@@ -208,7 +208,7 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.05694">Paper</a></td>
   </tr>  
   <tr>
-    <td class="tg-nrix" align="center" rowspan="2">RecSys<br>IR</td>
+    <td class="tg-nrix" align="center" rowspan="3">RecSys<br>IR</td>
     <td class="tg-baqh" align="center">A Survey on Large Language Models for Recommendation</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">31 May 2023</td>
@@ -220,6 +220,13 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-baqh" align="center">14 Aug 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.07107">Paper</a></td>
   </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">11 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.07521">Paper</a></td>
+  </tr>
+  
   <tr>
     <td class="tg-nrix" align="center" rowspan="3">Graphs</td>
     <td class="tg-baqh" align="center">Unifying Large Language Models and Knowledge Graphs: A Roadmap</td>
