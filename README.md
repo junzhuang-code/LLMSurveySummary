@@ -346,3 +346,4 @@ A collection of survey papers and resources related to Large Language Models (LL
 * 2023-10-10: Added one survey paper about LLMs for healthcare.
 * 2023-10-19: Added two survey papers about LLMs for software engineering.
 * 2023-10-29: Added one comprehensive survey and four surveys for trustworthiness.
+* 2023-11-05: Added one survey for factuality issues in knowledge and retrieval.
