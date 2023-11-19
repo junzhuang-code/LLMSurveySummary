@@ -22,7 +22,7 @@ A collection of survey papers and resources related to Large Language Models (LL
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="11">Comprehensive</td>
+    <td class="tg-nrix" align="center" rowspan="12">Comprehensive</td>
     <td class="tg-baqh" align="center">A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">07 Mar 2023</td>
@@ -89,7 +89,19 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2307.06435">Paper</a></td>
   </tr>
   <tr>
+    <td class="tg-baqh" align="center">A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">04 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.12321">Paper</a></td>
+  </tr>
+  <tr>
     <td class="tg-nrix" align="center" rowspan="14">Trustworthy</td>
+    <td class="tg-baqh" align="center">The Science of Detecting LLM-Generated Texts</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">04 Feb 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.07205">Paper</a></td>
+  </tr>
+  <tr>
     <td class="tg-baqh" align="center">Survey of Hallucination in Natural Language Generation</td>
     <td class="tg-0lax" align="center">ACM</td>
     <td class="tg-baqh" align="center">03 Mar 2023</td>
@@ -118,18 +130,6 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">24 May 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2305.14965">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Aligning Large Language Models with Human: A Survey</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">24 Jul 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2307.12966">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models' Alignment</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">10 Aug 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.05374">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">A Survey on Fairness in Large Language Models</td>
@@ -168,13 +168,68 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://helda.helsinki.fi/server/api/core/bitstreams/e507d025-8c84-4789-a043-f185fa51eb0a/content">Paper</a></td>
   </tr>
   <tr>
+    <td class="tg-baqh" align="center">Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">16 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.10844">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">09 Nov 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2311.05232">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="8">Adaptation Tuning</td>
+    <td class="tg-baqh" align="center">Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">01 May 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2305.00955">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Efficient Methods for Natural Language Processing: A Survey</td>
+    <td class="tg-0lax" align="center">ACL</td>
+    <td class="tg-baqh" align="center">12 Jul 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00577/116725">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Aligning Large Language Models with Human: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">24 Jul 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2307.12966">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">06 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.03188">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models' Alignment</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">10 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.05374">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Instruction Tuning for Large Language Models: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">21 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.10792">Paper</a></td>
+  </tr>
+  <tr>
     <td class="tg-baqh" align="center">Large Language Model Alignment: A Survey</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">26 Sep 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2309.15025">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="4">Multi-modal<br>Pre-training</td>
+    <td class="tg-baqh" align="center">Knowledge Editing for Large Language Models: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">24 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.16218">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="5">Multi-modal<br>Pre-training</td>
     <td class="tg-baqh" align="center">A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">18 Feb 2023</td>
@@ -197,6 +252,74 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">27 Aug 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.14149">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">10 Nov 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2311.07594">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="5">Bioinformatics</td>
+    <td class="tg-baqh" align="center">The Shaky Foundations of Clinical Foundation Models: A Survey of Large Language Models and Foundation Models for EMRs</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">22 Mar 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.12961">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">A Survey for Biomedical Text Summarization: From Pre-trained to Large Language Models</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">18 Apr 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2304.08763">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Large Language Models in Medicine</td>
+    <td class="tg-0lax" align="center">Nature Medicine</td>
+    <td class="tg-baqh" align="center">17 Jul 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://www.nature.com/articles/s41591-023-02448-8">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">09 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.05694">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">A Survey of Large Language Models in Medicine: Progress, Application, and Challenge</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">09 Nov 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2311.05112">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="5">Software Engineering</td>
+    <td class="tg-baqh" align="center">Large Language Models Meet NL2Code: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">01 Jul 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://aclanthology.org/2023.acl-long.411/">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Software Testing with Large Language Model: Survey, Landscape, and Vision</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">14 Jul 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2307.07221">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Towards Understanding the Capability of Large Language Models on Code Clone Detection: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">02 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.01191">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Large Language Models for Software Engineering: A Systematic Literature Review</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">21 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.10620">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Large Language Models for Software Engineering: Survey and Open Problems</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">05 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.03533">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-nrix" align="center" rowspan="4">RecSys<br>IR</td>
@@ -224,23 +347,54 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.07521">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="3">Bioinformatics</td>
-    <td class="tg-baqh" align="center">The Shaky Foundations of Clinical Foundation Models: A Survey of Large Language Models and Foundation Models for EMRs</td>
+    <td class="tg-nrix" align="center" rowspan="4">Prompting</td>
+    <td class="tg-baqh" align="center">Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing</td>
     <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">22 Mar 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.12961">Paper</a></td>
+    <td class="tg-baqh" align="center">28 Jul 2021</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2107.13586">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh" align="center">Large Language Models in Medicine</td>
-    <td class="tg-0lax" align="center">Nature Medicine</td>
-    <td class="tg-baqh" align="center">17 Jul 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://www.nature.com/articles/s41591-023-02448-8">Paper</a></td>
+    <td class="tg-baqh" align="center">A Survey on In-context Learning</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">31 Dec 2022</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2301.00234">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh" align="center">A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics</td>
+    <td class="tg-baqh" align="center">Augmented Language Models: A Survey</td>
     <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">09 Oct 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.05694">Paper</a></td>
+    <td class="tg-baqh" align="center">15 Feb 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2302.07842">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Towards Reasoning in Large Language Models: A Survey</td>
+    <td class="tg-0lax" align="center">ACL</td>
+    <td class="tg-baqh" align="center">01 Jul 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://aclanthology.org/2023.findings-acl.67/">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="4">Robotics</td>
+    <td class="tg-baqh" align="center">A Survey on Large Language Model based Autonomous Agents</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">22 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.11432">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">The Rise and Potential of Large Language Model Based Agents: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">14 Sep 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2309.07864">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">An In-depth Survey of Large Language Model-based Artificial Intelligence Agents</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">23 Sep 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2309.14365">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">A Survey of Large Language Models for Autonomous Driving</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">02 Nov 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2311.01043">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-nrix" align="center" rowspan="3">Graphs</td>
@@ -262,45 +416,7 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.06374">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="3">Software Engineering</td>
-    <td class="tg-baqh" align="center">Software Testing with Large Language Model: Survey, Landscape, and Vision</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">14 Jul 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2307.07221">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Large Language Models for Software Engineering: A Systematic Literature Review</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">21 Aug 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.10620">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Large Language Models for Software Engineering: Survey and Open Problems</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">05 Oct 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.03533">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" align="center" rowspan="3">Prompting</td>
-    <td class="tg-baqh" align="center">Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">28 Jul 2021</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2107.13586">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">A Survey on In-context Learning</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">31 Dec 2022</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2301.00234">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Instruction Tuning for Large Language Models: A Survey</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">21 Aug 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.10792">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" align="center" rowspan="2">Evaluation</td>
+    <td class="tg-nrix" align="center" rowspan="3">Evaluation</td>
     <td class="tg-baqh" align="center">A Survey on Evaluation of Large Language Models</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">06 Jul 2023</td>
@@ -313,61 +429,24 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.07902">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="2">Robotics</td>
-    <td class="tg-baqh" align="center">A Survey on Large Language Model based Autonomous Agents</td>
+    <td class="tg-baqh" align="center">Evaluating Large Language Models: A Comprehensive Survey</td>
     <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">22 Aug 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.11432">Paper</a></td>
+    <td class="tg-baqh" align="center">30 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.19736">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh" align="center">The Rise and Potential of Large Language Model Based Agents: A Survey</td>
+    <td class="tg-nrix" align="center" rowspan="1">Law</td>
+    <td class="tg-baqh" align="center">A Short Survey of Viewing Large Language Models in Legal Aspect</td>
     <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">14 Sep 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2309.07864">Paper</a></td>
+    <td class="tg-baqh" align="center">16 Mar 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.09136">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="2">Reasoning</td>
-    <td class="tg-baqh" align="center">Augmented Language Models: A Survey</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">15 Feb 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2302.07842">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Towards Reasoning in Large Language Models: A Survey</td>
-    <td class="tg-0lax" align="center">ACL</td>
-    <td class="tg-baqh" align="center">01 Jul 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://aclanthology.org/2023.findings-acl.67/">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" align="center" rowspan="8">Others</td>
-    <td class="tg-baqh" align="center">The Science of Detecting LLM-Generated Texts</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">04 Feb 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.07205">Paper</a></td>
-  </tr>
-  <tr>
+    <td class="tg-nrix" align="center" rowspan="6">Others</td>
     <td class="tg-baqh" align="center">The Life Cycle of Knowledge in Big Language Models: A Survey</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">14 Mar 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.07616">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">01 May 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2305.00955">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Large Language Models Meet NL2Code: A Survey</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">01 Jul 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://aclanthology.org/2023.acl-long.411/">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" align="center">Efficient Methods for Natural Language Processing: A Survey</td>
-    <td class="tg-0lax" align="center">ACL</td>
-    <td class="tg-baqh" align="center">12 Jul 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00577/116725">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Topics, Authors, and Networks in Large Language Model Research: Trends from a Survey of 17K arXiv Papers</td>
@@ -376,16 +455,28 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2307.10700">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh" align="center">Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">06 Aug 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.03188">Paper</a></td>
-  </tr>
-  <tr>
     <td class="tg-baqh" align="center">A Survey on Model Compression for Large Language Models</td>
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">15 Aug 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.07633">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Document Automation Architectures: Updated Survey in Light of Large Language Models</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">18 Aug 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2308.09341">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">When Large Language Models Meet Citation: A Survey</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">18 Sep 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2309.09727">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">A Survey of Large Language Models Attribution</td>
+    <td class="tg-0lax" align="center">arXiv</td>
+    <td class="tg-baqh" align="center">07 Nov 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2311.03731">Paper</a></td>
   </tr>
 </tbody>
 </table>
@@ -395,8 +486,9 @@ A collection of survey papers and resources related to Large Language Models (LL
 ## Update Log
 * 2023-10-04: Released the first draft of the survey summary for LLMs.
 * 2023-10-07: Added three survey papers about LLMs for graphs.
-* 2023-10-10: Added one survey paper about LLMs for healthcare.
-* 2023-10-19: Added two survey papers about LLMs for software engineering.
+* 2023-10-10: Included one survey paper about LLMs for healthcare.
+* 2023-10-19: Appended two survey papers about LLMs for software engineering.
 * 2023-10-29: Added one comprehensive survey and four surveys for trustworthiness.
-* 2023-11-05: Added one survey for factuality issues in knowledge and retrieval.
-* 2023-11-11: Updated nine survey papers across seven categories (Comprehensive\*1, Trustworthy\*1, Recsys\*1, Evaluation\*1, SE\*1, Prompting\*1, Other\*3).
+* 2023-11-05: Incorporated one survey for factuality issues in knowledge and retrieval.
+* 2023-11-11: Collected nine survey papers across seven categories.
+* 2023-11-18: Updated the category and supplemented fifteen survey papers.
