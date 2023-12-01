@@ -635,6 +635,13 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2311.10723">Paper</a></td>
   </tr>
   <tr>
+    <td class="tg-nrix" align="center" rowspan="1">Education</td>
+    <td class="tg-baqh" align="center">ChatGPT for good? On opportunities and challenges of large language models for education</td>
+    <td class="tg-0lax" align="center">ScienceDirect</td>
+    <td class="tg-baqh" align="center">09 Mar 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1041608023000195">Paper</a></td>
+  </tr>
+  <tr>
     <td class="tg-nrix" align="center" rowspan="6">Others</td>
     <td class="tg-baqh" align="center">The Life Cycle of Knowledge in Big Language Models: A Survey</td>
     <td class="tg-0lax" align="center">arXiv</td>
@@ -686,4 +693,4 @@ A collection of survey papers and resources related to Large Language Models (LL
 * 2023-11-11: Collected nine survey papers across seven categories.
 * 2023-11-18: Updated the category and supplemented nineteen survey papers.
 * 2023-11-23: Included ten survey papers across eight categories.
-* 2023-11-30: Updated eighteen survey papers across seven categories.
+* 2023-11-30: Created a new category: education; updated nineteen survey papers across eight categories.
