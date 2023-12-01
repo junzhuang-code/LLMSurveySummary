@@ -621,6 +621,13 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2310.19736">Paper</a></td>
   </tr>
   <tr>
+    <td class="tg-nrix" align="center" rowspan="1">Education</td>
+    <td class="tg-baqh" align="center">ChatGPT for good? On opportunities and challenges of large language models for education</td>
+    <td class="tg-0lax" align="center">ScienceDirect</td>
+    <td class="tg-baqh" align="center">09 Mar 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1041608023000195">Paper</a></td>
+  </tr>
+  <tr>
     <td class="tg-nrix" align="center" rowspan="1">Law</td>
     <td class="tg-baqh" align="center">A Short Survey of Viewing Large Language Models in Legal Aspect</td>
     <td class="tg-0lax" align="center">arXiv</td>
@@ -633,13 +640,6 @@ A collection of survey papers and resources related to Large Language Models (LL
     <td class="tg-0lax" align="center">arXiv</td>
     <td class="tg-baqh" align="center">28 Sep 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2311.10723">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" align="center" rowspan="1">Education</td>
-    <td class="tg-baqh" align="center">ChatGPT for good? On opportunities and challenges of large language models for education</td>
-    <td class="tg-0lax" align="center">ScienceDirect</td>
-    <td class="tg-baqh" align="center">09 Mar 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1041608023000195">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-nrix" align="center" rowspan="6">Others</td>
