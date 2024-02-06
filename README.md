@@ -254,7 +254,7 @@ A collection of survey papers and resources related to Large Language Models (LL
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Towards Reasoning in Large Language Models: A Survey</td>
-    <td class="tg-0lax" align="center">ACL</td>
+    <td class="tg-0lax" align="center">ACL Anthology</td>
     <td class="tg-baqh" align="center">01 Jul 2023</td>
     <td class="tg-0lax" align="center"><a href="https://aclanthology.org/2023.findings-acl.67/">Paper</a></td>
   </tr>
@@ -474,7 +474,7 @@ A collection of survey papers and resources related to Large Language Models (LL
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Efficient Methods for Natural Language Processing: A Survey</td>
-    <td class="tg-0lax" align="center">ACL</td>
+    <td class="tg-0lax" align="center">ACL Anthology</td>
     <td class="tg-baqh" align="center">12 Jul 2023</td>
     <td class="tg-0lax" align="center"><a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00577/116725">Paper</a></td>
   </tr>
